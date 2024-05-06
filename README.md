@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Gustavo
+- 👀 I’m interested in **Tech & Programming**
+- 🌱 I’m currently learning **Cyber-Security Practices**
+- 💞️ I’m looking to collaborate on **Technologies that bridge the gap between users and complex tech**
+- 📖 Fun fact: **Code is not an asset, it's a liability.**
+- 📫 Reach me at **gustavo.qrademacher@gmail.com**
