@@ -12,7 +12,7 @@ I'm an 18 years old, self-taught software developer with a fair set of problem s
 ## Comfortable with
 [![Languages](https://skillicons.dev/icons?i=py,java,cs,html,js,nodejs,lua,bash)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,stackoverflow,anaconda,qt)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,anaconda,qt)](https://skillicons.dev)
 
 [![IDEs](https://skillicons.dev/icons?i=vscode,pycharm,visualstudio,arduino,unity)](https://skillicons.dev)
 
