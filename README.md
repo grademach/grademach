@@ -10,7 +10,7 @@ I'm an 18 years old, self-taught software developer with a fair set of problem s
 - 📃 Fun fact **Code is not an asset, it's a liability.**
 
 ## Comfortable with
-[![Languages](https://skillicons.dev/icons?i=py,java,cs,html,js,nodejs,lua,bash)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,java,cs,html,js,nodejs,lua)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,anaconda,qt)](https://skillicons.dev)
 
