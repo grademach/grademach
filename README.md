@@ -1,5 +1,5 @@
 # Hi, I'm Gustavo! 👋
-I'm an 18 years old, self-taught software developer with a fair set of problem solving skills. I'm interested in coding, artificial intelligence, hardware automation and a variety of other tech-related subjects. I pour my free time into side projects for fun.
+I'm an 19 years old, self-taught software developer with a fair set of problem solving skills. I'm interested in coding, artificial intelligence, hardware automation and a variety of other tech-related subjects. I pour my free time into side projects for fun.
 
 ## About Me
 - 👀 I’m interested in **Tech & Programming**
