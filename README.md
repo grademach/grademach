@@ -19,4 +19,4 @@ I'm a 19 years old, self-taught software developer with a fair set of problem so
 [![OS](https://skillicons.dev/icons?i=windows,arch,kali,ubuntu)](https://skillicons.dev)
 
 ## 
-Thank you for taking a look! Feel free to contact me at **gustavo.qrademacher@gmail.com**
+Thank you for taking a look! Feel free to contact me at **gustavo.rademacher@outlook.com**
