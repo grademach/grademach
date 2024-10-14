@@ -10,9 +10,9 @@ I'm a 19 years old, self-taught software developer with a fair set of problem so
 - 📃 Fun fact **Code is not an asset, it's a liability.**
 
 ## Comfortable with
-[![Languages](https://skillicons.dev/icons?i=py,html,ts,tailwind,nextjs,nodejs,java)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,html,ts,tailwind,nextjs,java)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,anaconda,qt)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,postman)](https://skillicons.dev)
 
 [![IDEs](https://skillicons.dev/icons?i=vscode,pycharm,visualstudio,arduino,unity)](https://skillicons.dev)
 
