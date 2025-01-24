@@ -5,7 +5,7 @@ I'm a 19 years old, self-taught software developer with a fair set of problem so
 - 👀 I’m interested in **Tech & Programming**
 - 📖 I’m currently learning **Fullstack Web Dev**
 - ⏩ I'm looking forward to master **Low level languages**
-- 🫂 I’m looking to collaborate on **Technologies that reduce the gap between end users and complex tech**
+- 🫂 I’m looking to collaborate on **Projects that help reduce the gap between end users and complex tech**
 - 💞️ I love **Researching about STEM related topics**
 - 📃 Fun fact **Code is not an asset, it's a liability.**
 
