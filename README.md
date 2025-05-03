@@ -4,4 +4,4 @@ I like developing software almost as much as I like breaking it.
 I wouldn’t call myself a professional pentester, but I’m really into infosec and independent security research.
 
 ##
-[website](https://grademach.com) • gustavo.rademacher@outlook.com
+[grademach.com](https://grademach.com) • gustavo.rademacher@outlook.com
