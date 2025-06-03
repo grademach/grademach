@@ -1,5 +1,5 @@
 # Hi, I'm Gustavo
-I like developing software almost as much as breaking it.
+I like developing software almost as much as I like breaking it.
 
 I wouldn’t call myself a professional pentester, but I’m really into infosec and independent security research.
 
